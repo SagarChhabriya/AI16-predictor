@@ -4,7 +4,7 @@
 	- Title, public, README.md, .gitignore: python
 	- Clone the repo
 		- In case of multiple GitHub accounts
-			- # instead of `git clone https://example.com/open-source/library.git`, run:
+			-  instead of `git clone https://example.com/open-source/library.git`, run:
 			- git clone https://contrib123@example.com/open-source/library.git	
 		https://github.com/SagarChhabriya/income-predictor.git
 	- open this repo in vs code
